@@ -34,7 +34,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🧠 Math Genius Challenge</h3>
 <a href="https://github.com/aimanameenmohammed/MyMathGame" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/MyMathGame/raw/master/MathGame.png" alt="Math Genius Challenge UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/MyMathGame/master/MathGame.png" alt="Math Genius Challenge UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Modern arithmetic challenge application featuring dynamic UI/UX, custom GDI+ rounded controls, unified events, and audio feedback.</p>
@@ -50,7 +50,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🍕 Pizza Ordering System</h3>
 <a href="https://github.com/aimanameenmohammed/Pizza-Ordering-System" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Pizza-Ordering-System/raw/main/main%20Form%20Picture.png" alt="Pizza Ordering System UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Pizza-Ordering-System/master/main%20Form%20Picture.png" alt="Pizza Ordering System UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Desktop ordering system providing dynamic real-time price calculations, order summaries, and complex state management.</p>
@@ -68,7 +68,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🧮 Simple Desktop Calculator</h3>
 <a href="https://github.com/aimanameenmohammed/Simple-Calculator" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Simple-Calculator/raw/main/Calculator%20Picture.png" alt="Calculator UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Simple-Calculator/master/Calculator%20Picture.png" alt="Calculator UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Clean C# WinForms calculator built with a unified control architecture and optimized state tracking.</p>
@@ -84,7 +84,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🎓 Student Management System</h3>
 <a href="https://github.com/aimanameenmohammed/Student-Management-System" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Student-Management-System/raw/main/Project%20Interface.png" alt="Student Management System UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Student-Management-System/master/Project%20Interface.png" alt="Student Management System UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Single-page desktop solution consolidating complete CRUD workflows, custom list modes, and interactive ID Card preview.</p>
@@ -93,7 +93,6 @@
   <img src="https://img.shields.io/badge/Architecture-SPA-orange?style=flat-square" />
 </p>
 <a href="https://github.com/aimanameenmohammed/Student-Management-System" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Student-Management-System" target="_blank">
   <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -103,7 +102,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🔐 Minimalist Password Generator</h3>
 <a href="https://github.com/aimanameenmohammed/Password-Generator" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Password-Generator/raw/main/Genarate%20Password%20Picture.png" alt="Password Generator UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Password-Generator/master/Genarate%20Password%20Picture.png" alt="Password Generator UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>A sleek desktop application implementing secure random algorithms with a minimalist dark interface.</p>
@@ -119,7 +118,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🎮 Tic-Tac-Toe Game (X-O)</h3>
 <a href="https://github.com/aimanameenmohammed/Tic-Tac-Toe-Game" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Tic-Tac-Toe-Game/raw/main/Tic-Tac-Toe%20Game%20Interface.png" alt="Tic Tac Toe UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Tic-Tac-Toe-Game/master/Tic-Tac-Toe%20Game%20Interface.png" alt="Tic Tac Toe UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Polished turn-based desktop game engine featuring automated matrix win detection, score tracking, and smooth resetting.</p>
@@ -137,7 +136,7 @@
 <td width="50%" align="center" valign="top">
 <h3>⏱️ Interactive Timer & Display</h3>
 <a href="https://github.com/aimanameenmohammed/Timer-And-Name-Display" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/Timer-And-Name-Display/raw/main/Timer%20Interface.png" alt="Interactive Timer UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/Timer-And-Name-Display/master/Timer%20Interface.png" alt="Interactive Timer UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Event-driven WinForms utility linking dynamic name iteration queues with real-time timer logic and input state controls.</p>
@@ -153,7 +152,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🏎️ International Luxury Car Exhibition</h3>
 <a href="https://github.com/aimanameenmohammed/International-Luxury-Car-Exhibition" target="_blank">
-  <img src="https://github.com/aimanameenmohammed/International-Luxury-Car-Exhibition/raw/main/International%20Luxury%20Car%20Exhibition%20Interface.png" alt="Luxury Car Exhibition UI" width="95%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/International-Luxury-Car-Exhibition/master/International%20Luxury%20Car%20Exhibition%20Interface.png" alt="Luxury Car Exhibition UI" width="95%" style="border-radius: 8px;">
 </a>
 <br><br>
 <p>Organizing hierarchical automotive brand data using dynamic TreeView nodes, double-click interaction handlers, and modern Dark UI.</p>
