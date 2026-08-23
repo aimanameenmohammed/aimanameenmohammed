@@ -35,42 +35,34 @@
 
 ## 🌟 Featured Masterpieces
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🧠 Math Genius Challenge</h3>
-      <p>Modern arithmetic challenge desktop application featuring dynamic UI/UX, unified events, custom GDI+ rounded controls, and sound effects.</p>
-      <br>
-      <img src="https://raw.githubusercontent.com/aimanameenmohammed/MyMathGame/master/MathGame.png" alt="Math Genius Challenge UI" width="100%">
-      <br><br>
-      <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp" />
-      <img src="https://img.shields.io/badge/UI-Custom_GDI%2B-orange?style=flat-square" />
-      <br><br>
-      <a href="https://github.com/aimanameenmohammed/MyMathGame">
-        <img src="https://img.shields.io/badge/EXPLORE_CODE-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://github.com/aimanameenmohammed/MyMathGame/archive/refs/heads/master.zip">
-        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🏦 MBANK / Bank Management System</h3>
-      <p>Comprehensive banking desktop solution built with layered architecture, custom Guna2 UI, transaction history, and RBAC bitmask permissions.</p>
-      <br>
-      <!-- ضع صورة مشروع البنك أو المستودع القادم هنا -->
-      <img src="https://via.placeholder.com/700x400/1e1e1e/3498db?text=Bank+System+UI" alt="Bank System UI" width="100%">
-      <br><br>
-      <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp" />
-      <img src="https://img.shields.io/badge/Database-SQL_Server-red?style=flat-square&logo=microsoftsqlserver" />
-      <br><br>
-      <a href="#">
-        <img src="https://img.shields.io/badge/EXPLORE_CODE-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<table align="center" width="100%">
+<tr>
+<td width="100%" align="center" valign="top">
+<h3>🧠 Math Genius Challenge</h3>
+<p>Modern arithmetic challenge desktop application featuring dynamic UI/UX, unified events, custom GDI+ rounded controls, and sound effects.</p>
+<br>
+<a href="https://github.com/aimanameenmohammed/MyMathGame" target="_blank">
+  <img src="https://raw.githubusercontent.com/aimanameenmohammed/MyMathGame/master/MathGame.png" alt="Math Genius Challenge UI" width="85%" style="border-radius: 8px;">
+</a>
+<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/UI-Custom_GDI%2B-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square" />
+</p>
+<br>
+<p>
+  <a href="https://github.com/aimanameenmohammed/MyMathGame" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_CODE-0080FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aimanameenmohammed/MyMathGame/archive/refs/heads/master.zip" target="_blank">
+    <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<br>
+</td>
+</tr>
 </table>
 
 </div>
