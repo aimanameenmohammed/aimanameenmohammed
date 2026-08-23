@@ -33,70 +33,39 @@
 
 <div align="center">
 
-## 🚀 Uploaded Repositories
+## 🌟 Featured Masterpieces
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 My Math Game</h3>
-      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع My Math Game -->
+    <td width="100%" align="center" valign="top">
+      <br/>
+      <h3>🎮 Math Genius Game</h3>
+      <p>An interactive educational desktop game built with C# WinForms, featuring difficulty levels, dynamic timer, GDI+ rounded controls, and detailed performance summary panels.</p>
+      
+      <!-- ضع رابط صورة المشروع المباشر مكان الصورة أدناه -->
       <a href="https://github.com/aimanameenmohammed/My-Math-Game">
-        <img src="IMAGE_URL_HERE" alt="My Math Game Preview" style="max-width: 100%; border-radius: 8px;" />
+        <img src="https://raw.githubusercontent.com/aimanameenmohammed/My-Math-Game/main/preview.png" alt="Math Genius Game Preview" width="85%" style="border-radius: 8px;" />
       </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-      </p>
-      An interactive math desktop application built with C# WinForms, featuring custom UI styling, difficulty modes, dynamic timing, and performance summary panels.
       <br/><br/>
-      <div align="center">
-        <a href="https://github.com/aimanameenmohammed/My-Math-Game"><b>🔗 View Repository</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧮 Calculator App</h3>
-      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع Calculator App -->
-      <a href="https://github.com/aimanameenmohammed/calculator-app">
-        <img src="IMAGE_URL_HERE" alt="Calculator App Preview" style="max-width: 100%; border-radius: 8px;" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+      <!-- الأوسمة التقنية Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/UI-GDI%2B%20Custom-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-C%23%20WinForms-239120?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square" />
       </p>
-      A comprehensive desktop calculator engineered in C++, focusing on fundamental programming logic, mathematical parsing, and memory optimization.
-      <br/><br/>
-      <div align="center">
-        <a href="https://github.com/aimanameenmohammed/calculator-app"><b>🔗 View Repository</b></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Programming Advices</h3>
-      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع Programming Advices -->
-      <a href="https://github.com/aimanameenmohammed/Programming-Advices">
-        <img src="IMAGE_URL_HERE" alt="Programming Advices Preview" style="max-width: 100%; border-radius: 8px;" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white" />
+
+      <!-- الأزرار التفاعلية -->
+      <p>
+        <a href="https://github.com/aimanameenmohammed/My-Math-Game" target="_blank">
+          <img src="https://img.shields.io/badge/EXPLORE%20CODE-00A4EF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/aimanameenmohammed/My-Math-Game/archive/refs/heads/main.zip" target="_blank">
+          <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-E81123?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
-      A structured repository containing coursework solutions, algorithmic logic, and OOP problem-solving exercises completed under Dr. Mohammed Abu-Hadhoud's mentorship.
-      <br/><br/>
-      <div align="center">
-        <a href="https://github.com/aimanameenmohammed/Programming-Advices"><b>🔗 View Repository</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👤 GitHub Profile README</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      </p>
-      The personal GitHub profile configuration repository featuring customized badges, credentials presentation, and social integration.
-      <br/><br/>
-      <div align="center">
-        <a href="https://github.com/aimanameenmohammed/aimanameenmohammed"><b>🔗 View Repository</b></a>
-      </div>
+      <br/>
     </td>
   </tr>
 </table>
