@@ -24,7 +24,7 @@
 
 | 🎓 Institution | 🏆 Professional Mastery |
 | :---: | :---: |
-| <a href="https://taiz.edu.ye/" target="_blank"><b>Taiz University</b></a> | <b>ProgrammingAdvices Academy</b> |
+| <a href="https://taiz.edu.ye/" target="_blank"><b>Taiz University</b></a> | <a href="https://programmingadvices.com/" target="_blank"><b>ProgrammingAdvices Academy</b></a> |
 | *Official Academic Institution* | *Logic, Algorithms & Software Engineering* |
 
 </div>
