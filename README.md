@@ -196,6 +196,6 @@
 
 <br /><br />
 
-<p align="center"><i>Crafted with 💙 by Aiman Ameen Mohammed</i></p>
+<p.align="center"><i>Crafted with 💙 by Aiman Ameen Mohammed</i></p>
 
 </div>
