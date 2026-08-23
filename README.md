@@ -33,21 +33,61 @@
 
 <div align="center">
 
-## 🚀 Latest Projects
+## 🚀 Uploaded Repositories
 
-<p align="center">
-  <a href="https://github.com/aimanameenmohammed/My-Math-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=My-Math-Game&theme=react&show_owner=false" />
-  </a>
-  <a href="https://github.com/aimanameenmohammed/calculator-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=calculator-app&theme=react&show_owner=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aimanameenmohammed/Programming-Advices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=Programming-Advices&theme=react&show_owner=false" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 My Math Game</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      </p>
+      An interactive math desktop application built with C# WinForms, featuring custom UI styling, difficulty modes, dynamic timing, and performance summary panels.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/aimanameenmohammed/My-Math-Game"><b>🔗 View Repository</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 Calculator App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      </p>
+      A comprehensive desktop calculator engineered in C++, focusing on fundamental programming logic, mathematical parsing, and memory optimization.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/aimanameenmohammed/calculator-app"><b>🔗 View Repository</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Programming Advices</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white" />
+      </p>
+      A structured repository containing coursework solutions, algorithmic logic, and OOP problem-solving exercises completed under Dr. Mohammed Abu-Hadhoud's mentorship.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/aimanameenmohammed/Programming-Advices"><b>🔗 View Repository</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👤 GitHub Profile README</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      </p>
+      The personal GitHub profile configuration repository featuring customized badges, credentials presentation, and social integration.
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/aimanameenmohammed/aimanameenmohammed"><b>🔗 View Repository</b></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
