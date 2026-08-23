@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Aiman Ameen Mohammed
-*Computer Science Student & Software Developer | C# & C++ .NET Specialist*
+*C# .NET & C++ Developer | OOP & Database (SQL, ADO.NET) | Computer Science Student | Building High-Performance Applications*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Software+Architect;C%23+.NET+Expert;C%2B%2B+Logic+Master" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=550&lines=High-Performance+Apps;C%23+.NET+%26+C%2B%2B+Developer;OOP+%26+Database+Architect" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 </div>
 
 - 🎓 **Academic Journey:** Computer Science Student at **Taiz University**.
-- 💻 **Specialization:** Core C# .NET Application Architecture (WinForms, ADO.NET) & C++ OOP/Algorithms.
-- 🛠 **Focus Areas:** Deep Object-Oriented Programming, Memory Optimization, and Modern UI/UX Engineering.
+- 💻 **Core Technical Stack:** C# .NET, C++, ADO.NET, SQL Server, and Relational Database Design.
+- 🛠 **Focus Areas:** Deep Object-Oriented Programming (OOP), Performance Optimization, and Modern UI/UX Engineering.
 - 🏆 **Mentorship & Foundation:** Guided by extensive software logic and algorithmic courses under **Dr. Mohammed Abu-Hadhoud**.
 
 ---
@@ -73,7 +73,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=400&lines=🤝+GET+IN+TOUCH;AIMAN+AMEEN" alt="Contact Section" />
 
-  <p>Open to discussions regarding desktop application development, scalable architecture, and backend systems.</p>
+  <p>Open to discussions regarding desktop application development, database architecture, and software optimization.</p>
 
   <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
