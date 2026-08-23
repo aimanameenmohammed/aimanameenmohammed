@@ -39,6 +39,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎮 My Math Game</h3>
+      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع My Math Game -->
+      <a href="https://github.com/aimanameenmohammed/My-Math-Game">
+        <img src="IMAGE_URL_HERE" alt="My Math Game Preview" style="max-width: 100%; border-radius: 8px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -51,6 +55,10 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧮 Calculator App</h3>
+      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع Calculator App -->
+      <a href="https://github.com/aimanameenmohammed/calculator-app">
+        <img src="IMAGE_URL_HERE" alt="Calculator App Preview" style="max-width: 100%; border-radius: 8px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       </p>
@@ -64,6 +72,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📚 Programming Advices</h3>
+      <!-- استبدل IMAGE_URL_HERE برابط الصورة الحقيقي لمشروع Programming Advices -->
+      <a href="https://github.com/aimanameenmohammed/Programming-Advices">
+        <img src="IMAGE_URL_HERE" alt="Programming Advices Preview" style="max-width: 100%; border-radius: 8px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white" />
