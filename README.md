@@ -33,15 +33,21 @@
 
 <div align="center">
 
-## 🚀 Latest Uploaded Projects
+## 🚀 Latest Projects
 
-<!-- REPO-LIST:START -->
-- [aimanameenmohammed pushed aimanameenmohammed](https://github.com/aimanameenmohammed/aimanameenmohammed/compare/bd15bc976e...b08020da5d)
-- [aimanameenmohammed pushed aimanameenmohammed](https://github.com/aimanameenmohammed/aimanameenmohammed/compare/fb3b57b70e...bd15bc976e)
-- [aimanameenmohammed pushed aimanameenmohammed](https://github.com/aimanameenmohammed/aimanameenmohammed/compare/5e5d9d7e87...fb3b57b70e)
-- [aimanameenmohammed pushed aimanameenmohammed](https://github.com/aimanameenmohammed/aimanameenmohammed/compare/d1e7a51497...5e5d9d7e87)
-- [aimanameenmohammed pushed My-Math-Game](https://github.com/aimanameenmohammed/My-Math-Game/compare/ead22ef0c0...79ec31fb2c)
-<!-- REPO-LIST:END -->
+<p align="center">
+  <a href="https://github.com/aimanameenmohammed/My-Math-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=My-Math-Game&theme=react&show_owner=false" />
+  </a>
+  <a href="https://github.com/aimanameenmohammed/calculator-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=calculator-app&theme=react&show_owner=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/aimanameenmohammed/Programming-Advices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimanameenmohammed&repo=Programming-Advices&theme=react&show_owner=false" />
+  </a>
+</p>
 
 </div>
 
