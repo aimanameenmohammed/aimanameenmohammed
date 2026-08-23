@@ -1,5 +1,7 @@
-# <p align="center">👋 Hi, I'm Aiman Ameen Mohammed <p>
-<p align="center"><i> Computer Science Student & Software Developer | C# & C++ .NET Specialist</i></p>
+<div align="center">
+
+# 👋 Hi, I'm Aiman Ameen Mohammed
+*Computer Science Student & Software Developer | C# & C++ .NET Specialist*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Software+Architect;C%23+.NET+Expert;C%2B%2B+Logic+Master" />
@@ -7,29 +9,79 @@
 
 ---
 
-- 🎓 Currently studying Computer Science at Taiz University.
-- 💻 Specialized in C# .NET (WinForms) and C++ application development.
-- 🛠 Deeply interested in OOP Principles, Logic Building, and UI/UX Design.
-- 🏆 Focused on Algorithms & Problem Solving and high-performance software.
+</div>
+
+- 🎓 **Academic Journey:** Computer Science Student at **Taiz University**.
+- 💻 **Specialization:** Core C# .NET Application Architecture (WinForms, ADO.NET) & C++ OOP/Algorithms.
+- 🛠 **Focus Areas:** Deep Object-Oriented Programming, Memory Optimization, and Modern UI/UX Engineering.
+- 🏆 **Mentorship & Foundation:** Guided by extensive software logic and algorithmic courses under **Dr. Mohammed Abu-Hadhoud**.
 
 ---
 
-### 🏛 Professional Credentials
+### 🏛️ Professional Credentials & Education
+
 <div align="center">
 
-| 🎓 Institution | 🏆 Mastery & Skills |
-| :--- | :--- |
-| <a href="https://taiz.edu.ye/" target="_blank"><b>Taiz University</b></a> | <b>Logic & Algorithms Specialist</b> |
-| *Official Academic Site* | *Problem Solving & Architecture* |
+| 🎓 Institution | 🏆 Professional Mastery |
+| :---: | :---: |
+| <a href="https://taiz.edu.ye/" target="_blank"><b>Taiz University</b></a> | <b>ProgrammingAdvices Academy</b> |
+| *Official Academic Institution* | *Logic, Algorithms & Software Engineering* |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=400&lines=🤝+GET+IN+TOUCH;AIMAN+AMEEN" alt="Aiman Name" />
 
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+## 🌟 Featured Masterpieces
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🧠 Math Genius Challenge</h3>
+      <p>Modern arithmetic challenge desktop application featuring dynamic UI/UX, unified events, custom GDI+ rounded controls, and sound effects.</p>
+      <br>
+      <img src="https://raw.githubusercontent.com/aimanameenmohammed/MyMathGame/master/MathGame.png" alt="Math Genius Challenge UI" width="100%">
+      <br><br>
+      <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp" />
+      <img src="https://img.shields.io/badge/UI-Custom_GDI%2B-orange?style=flat-square" />
+      <br><br>
+      <a href="https://github.com/aimanameenmohammed/MyMathGame">
+        <img src="https://img.shields.io/badge/EXPLORE_CODE-0080FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/aimanameenmohammed/MyMathGame/archive/refs/heads/master.zip">
+        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🏦 MBANK / Bank Management System</h3>
+      <p>Comprehensive banking desktop solution built with layered architecture, custom Guna2 UI, transaction history, and RBAC bitmask permissions.</p>
+      <br>
+      <!-- ضع صورة مشروع البنك أو المستودع القادم هنا -->
+      <img src="https://via.placeholder.com/700x400/1e1e1e/3498db?text=Bank+System+UI" alt="Bank System UI" width="100%">
+      <br><br>
+      <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp" />
+      <img src="https://img.shields.io/badge/Database-SQL_Server-red?style=flat-square&logo=microsoftsqlserver" />
+      <br><br>
+      <a href="#">
+        <img src="https://img.shields.io/badge/EXPLORE_CODE-0080FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=400&lines=🤝+GET+IN+TOUCH;AIMAN+AMEEN" alt="Contact Section" />
+
+  <p>Open to discussions regarding desktop application development, scalable architecture, and backend systems.</p>
 
   <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -48,6 +100,7 @@
   </a>
 
   <br /><br />
-  
+
   <p align="center"><i>Designed with 💙 by Aiman Ameen Mohammed</i></p>
+
 </div>
