@@ -36,35 +36,16 @@
 ## 🌟 Featured Masterpieces
 
 <table align="center" width="100%">
-  <tr>
-    <td width="100%" align="center" valign="top">
-      <br/>
-      <h3>🎮 Math Genius Game</h3>
-      <p>An interactive educational desktop game built with C# WinForms, featuring difficulty levels, dynamic timer, GDI+ rounded controls, and detailed performance summary panels.</p>
-      
-      <a href="https://github.com/aimanameenmohammed/My-Math-Game" target="_blank">
-        <img src="https://raw.githubusercontent.com/aimanameenmohammed/My-Math-Game/main/preview.png" alt="Math Genius Game Preview" width="85%" style="border-radius: 8px;" />
-      </a>
-      <br/><br/>
-
-      <p>
-        <img src="https://img.shields.io/badge/UI-GDI%2B%20Custom-007ACC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-C%23%20WinForms-239120?style=flat-square" />
-        <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square" />
-      </p>
-
-      <p>
-        <a href="https://github.com/aimanameenmohammed/My-Math-Game" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE%20CODE-00A4EF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/aimanameenmohammed/My-Math-Game/archive/refs/heads/main.zip" target="_blank">
-          <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-E81123?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <br/>
-    </td>
-  </tr>
+<tr>
+<td width="100%" align="center" valign="top">
+<h3>🎮 Math Genius Game</h3>
+<p>An interactive educational desktop game built with C# WinForms, featuring difficulty levels, dynamic timer, GDI+ rounded controls, and detailed performance summary panels.</p>
+<a href="https://github.com/aimanameenmohammed/My-Math-Game" target="_blank"><img src="https://raw.githubusercontent.com/aimanameenmohammed/My-Math-Game/main/preview.png" alt="Math Genius Game Preview" width="85%" style="border-radius: 8px;" /></a>
+<br/><br/>
+<p><img src="https://img.shields.io/badge/UI-GDI%2B%20Custom-007ACC?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-C%23%20WinForms-239120?style=flat-square" /> <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=flat-square" /></p>
+<p><a href="https://github.com/aimanameenmohammed/My-Math-Game" target="_blank"><img src="https://img.shields.io/badge/EXPLORE%20CODE-00A4EF?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://github.com/aimanameenmohammed/My-Math-Game/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-E81123?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+</td>
+</tr>
 </table>
 
 </div>
