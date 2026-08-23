@@ -134,7 +134,7 @@
 
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>⏱️ Interactive Timer & Display</h3>
+<h3>⏱️ Interactive Timer & Display Name</h3>
 <a href="https://github.com/aimanameenmohammed/Timer-And-Name-Display" target="_blank">
   <img src="./Timer%20Interface.png" alt="Interactive Timer UI" width="95%" style="border-radius: 8px;">
 </a>
