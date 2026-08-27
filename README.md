@@ -1,369 +1,288 @@
-# 👋 Hi, I'm Ayman Ameen Mohammed
+# 👋 Hello, I'm Ayman Ameen Mohammed
 
-### 💻 C# .NET & C++ Developer | OOP | SQL Server | ADO.NET | Desktop Applications
-
-I’m a software developer focused on building practical applications and strengthening my skills in C#, C++, .NET, Object-Oriented Programming, SQL Server, ADO.NET, and Database Development.
-
-I learn by building real projects, applying programming concepts, solving problems, and continuously improving my code and software engineering skills.
-
----
-
-## 📚 Table of Contents
-
-<table>
-<tr>
-<td>👋 <a href="#-hi-im-ayman-ameen-mohammed">About</a></td>
-<td>🚀 <a href="#-about-me">About Me</a></td>
-<td>🛠️ <a href="#️-tech-stack">Tech Stack</a></td>
-</tr>
-<tr>
-<td>🌟 <a href="#-featured-projects">Projects</a></td>
-<td>📚 <a href="#-my-learning-journey">Learning Journey</a></td>
-<td>🧠 <a href="#-what-im-currently-focusing-on">Focus</a></td>
-</tr>
-<tr>
-<td>📈 <a href="#-development-philosophy">Philosophy</a></td>
-<td>🎯 <a href="#-goals">Goals</a></td>
-<td>🤝 <a href="#-open-to-collaboration">Collaboration</a></td>
-</tr>
-<tr>
-<td>🌐 <a href="#-connect-with-me">Connect</a></td>
-<td>📂 <a href="#-explore-my-repositories">Repositories</a></td>
-<td>❤️ <a href="#-thanks-for-visiting-my-profile">Thanks</a></td>
-</tr>
-</table>
-
----
-
-## 🚀 About Me
-
-- 💻 Focused on **C# .NET and C++ Development**
-- 🗄️ Interested in **SQL Server, ADO.NET & Database Development**
-- 🧠 Interested in **Object-Oriented Programming & Problem Solving**
-- 🏗️ Building applications using **Three-Tier Architecture**
-- 🖥️ Developing **Windows Forms Desktop Applications**
-- 📚 Learning through practical projects and continuous implementation
-- 🔧 Improving code quality, organization, and software architecture
-- 🚀 Turning programming concepts into practical applications
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=C%23+%7C+.NET+%7C+C%2B%2B+Developer;Desktop+Application+Developer;OOP+%7C+ADO.NET+%7C+SQL+Server;Building+Software+Through+Practice" alt="Typing SVG" />
 </p>
 
-### ⚙️ .NET & Desktop Development
-
-<p align="left">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### 🗄️ Database & Data Access
-
-<p align="left">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-### 🧠 Software Engineering
-
-<p align="left">
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Three--Tier%20Architecture-2F80ED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean%20Code-111111?style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/aimanameenmohammed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 💻 About Me
 
-### 🏦 Bank Management System
+I'm a software developer focused on building practical applications and developing strong foundations in **C#, C++, .NET, Object-Oriented Programming, SQL Server, ADO.NET, and Database Development**.
 
-A desktop banking application developed with **C#, .NET, Windows Forms, ADO.NET, SQL Server, and Three-Tier Architecture**.
+My learning journey is built around one principle:
 
-The project focuses on applying database programming, business logic, data access, and desktop UI development in a practical banking system.
+> **Don't just learn the concept — build with it.**
 
-🔗 **[View Repository](https://github.com/aimanameenmohammed/My-Bank-Project)**
+I learn by developing projects, solving problems, debugging real issues, improving my code, and gradually moving from small applications to larger, database-driven systems.
 
 ---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+### Frameworks & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms">
+</p>
+
+### Database & Data Access
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET">
+</p>
+
+### Concepts & Practices
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="OOP">
+  <img src="https://img.shields.io/badge/Three--Tier%20Architecture-2F80ED?style=flat-square&logoColor=white" alt="Three-Tier Architecture">
+  <img src="https://img.shields.io/badge/Clean%20Code-333333?style=flat-square&logoColor=white" alt="Clean Code">
+  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=flat-square&logoColor=white" alt="Database Design">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+These two projects represent the most significant stage of my practical development journey.
 
 ### 🚗 DVLD — Driving & Vehicle License Department
 
-A large desktop application developed to simulate a real-world Driving & Vehicle License Department system.
+**My latest and final major project of this learning phase.**
 
-The project includes practical management of people, users, applications, tests, drivers, and licenses.
+DVLD is a comprehensive desktop application designed to simulate a real-world Driving & Vehicle License Department.
 
-Built using:
+The project brings together many of the concepts I developed throughout my learning journey, including application design, database development, business logic, data access, and layered architecture.
 
-- C#
-- .NET / Windows Forms
-- ADO.NET
-- SQL Server
-- OOP
-- Three-Tier Architecture
-- Database Design
+**Core areas include:**
 
-🔗 **[Explore My GitHub Repositories](https://github.com/aimanameenmohammed?tab=repositories)**
+- 👤 People Management
+- 🔐 User Management
+- 📝 Applications Management
+- 🧪 Tests Management
+- 🚘 Drivers Management
+- 🪪 Licenses Management
+- 🌍 International Licenses
+- 🔄 License-related Services
+- 🗄️ SQL Server Database
+- 🔗 ADO.NET Data Access
+- 🏗️ Three-Tier Architecture
 
----
+### 🧠 Why This Project Matters
 
-### 🧮 Math Game V2.0
+DVLD represents the point where many separate programming concepts came together into one complete system.
 
-A C# desktop application designed as an interactive mathematics game.
+**C# → OOP → SQL Server → ADO.NET → Architecture → Business Logic → UI → Complete Application**
 
-The project focuses on programming logic, user interaction, Windows Forms development, game flow, and score management.
+This is the **last major project I completed during this learning phase**, and it represents an important milestone in my development journey.
 
-🔗 **[View Repository](https://github.com/aimanameenmohammed/My-Math-Game-V2.0)**
-
----
-
-### 🎮 Paper-Stone-Scissor Game V1.0
-
-A C++ console-based game where the player competes against the computer through multiple rounds.
-
-The project demonstrates:
-
-- C++ fundamentals
-- Functions
-- Structures
-- Enumerations
-- Loops
-- Conditional Logic
-- Random Number Generation
-- Input Validation
-- Game Logic
-
-🔗 **[View Repository](https://github.com/aimanameenmohammed/Paper-Ston-Scissor-Game-V1.0)**
+🔗 **[View DVLD Project](https://github.com/aimanameenmohammed/DVLD-Project)**
 
 ---
 
-### 🍕 Pizza Ordering System
+### 🏦 Bank Project V2.0
 
-A C# Windows Forms application developed as a practical project to apply desktop application development and user interaction.
+A database-driven banking desktop application developed using **C#, .NET, Windows Forms, ADO.NET, SQL Server, and Three-Tier Architecture**.
 
-🔗 **[View Repository](https://github.com/aimanameenmohammed/Pizza-Project)**
+This project gave me practical experience in building a structured application with separate presentation, business, and data access responsibilities.
 
----
+It also strengthened my understanding of:
 
-### 🧮 Simple Calculator
+- 🗄️ Database-driven applications
+- 🔗 ADO.NET
+- 🏗️ Three-Tier Architecture
+- 🧠 Business Logic
+- 🖥️ Windows Forms
+- 🔄 CRUD Operations
+- 🔐 Application Management
 
-A C# Windows Forms calculator created to practice event-driven programming, control interaction, and application logic.
-
-🔗 **[View Repository](https://github.com/aimanameenmohammed/Simple-Calculator)**
-
----
-
-### 🔐 Password Generator
-
-A desktop application focused on generating passwords using randomized characters and user-selected options.
-
-🔗 **[View Repository](https://github.com/aimanameenmohammed/Genarate-Password)**
+🔗 **[View Bank Project V2.0](https://github.com/aimanameenmohammed/My-Bank-Project-V2.0)**
 
 ---
 
-## 📚 My Learning Journey
+## 📈 From Fundamentals to Real Applications
 
-My development journey is based strongly on **learning through building**.
+My projects have gradually evolved as my understanding of programming and software development grew.
 
-Rather than learning programming concepts only from theory, I apply what I learn by developing practical projects and gradually working on larger and more complex applications.
+<p align="center">
 
-### 🧭 Development Path
+<strong>Programming Fundamentals</strong>
+<br>
+↓
+<br>
+<strong>C++ & C#</strong>
+<br>
+↓
+<br>
+<strong>Object-Oriented Programming</strong>
+<br>
+↓
+<br>
+<strong>Windows Forms & Desktop Applications</strong>
+<br>
+↓
+<br>
+<strong>SQL Server & Database Design</strong>
+<br>
+↓
+<br>
+<strong>ADO.NET</strong>
+<br>
+↓
+<br>
+<strong>Three-Tier Architecture</strong>
+<br>
+↓
+<br>
+<strong>Large Database-Driven Applications</strong>
+<br>
+↓
+<br>
+<strong>DVLD 🚗</strong>
 
-    Programming Fundamentals
-            ↓
-    Object-Oriented Programming
-            ↓
-    C++ & C#
-            ↓
-    .NET & Windows Forms
-            ↓
-    SQL Server
-            ↓
-    ADO.NET
-            ↓
-    Database Design
-            ↓
-    Three-Tier Architecture
-            ↓
-    Larger Real-World Applications
+</p>
 
-Every project gives me an opportunity to improve my understanding of programming, databases, architecture, debugging, and problem solving.
+Each step helped me understand not only how to write code, but also how to **design, organize, connect, debug, and improve a complete software system**.
 
 ---
 
-## 🧠 What I'm Currently Focusing On
-
-### 💻 C# & .NET
-
-- Object-Oriented Programming
-- Windows Forms
-- Clean Code
-- Reusable Components
-- Event-Driven Programming
-- Application Architecture
-
-### 🗄️ Database Development
-
-- SQL Server
-- Relational Database Design
-- Database Relationships
-- CRUD Operations
-- ADO.NET
-- Data Access Layer
-- Business Logic Layer
-
-### 🏗️ Software Architecture
-
-- Three-Tier Architecture
-- Separation of Responsibilities
-- Presentation Layer
-- Business Logic Layer
-- Data Access Layer
+## 🧠 What I Value in Development
 
 ### 🧩 Problem Solving
 
-- Breaking complex problems into smaller problems
-- Designing reusable functions
-- Improving code organization
-- Debugging
-- Learning through practical implementation
+I enjoy breaking complex problems into smaller, understandable parts and building solutions step by step.
+
+### 🏗️ Clean Structure
+
+I focus on organizing applications so that responsibilities are separated and the code remains easier to understand and maintain.
+
+### 🗄️ Data & Logic
+
+I enjoy working with databases and understanding how application logic communicates with stored data.
+
+### 🔍 Continuous Improvement
+
+I treat errors and difficult problems as part of the learning process.
+
+> **Every bug is a lesson. Every project is an opportunity to improve.**
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Learning Journey
+
+My development journey has been based heavily on practical learning.
+
+I don't want programming knowledge to remain only as theory.
+
+I prefer to:
+
+**Learn → Apply → Build → Debug → Understand → Improve**
+
+This approach has allowed me to gradually move from small programming exercises to complete applications involving databases, business logic, user interfaces, and application architecture.
+
+---
+
+## 📚 More Projects
+
+The projects featured above are the main highlights of my current journey.
+
+However, I have built **many other projects and programming exercises** while learning and practicing different concepts in C#, C++, .NET, Windows Forms, databases, and programming fundamentals.
+
+If you'd like to explore everything I've worked on:
+
+### 🔎 [Explore All My Repositories](https://github.com/aimanameenmohammed?tab=repositories)
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimanameenmohammed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aimanameenmohammed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayman's GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanameenmohammed&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanameenmohammed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanameenmohammed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-## 📈 Development Philosophy
+## 🎯 What's Next?
 
-### Learn → Build → Debug → Improve → Repeat
+Completing DVLD marks the end of an important learning phase for me.
 
-I believe that one of the strongest ways to become a better developer is through practical implementation.
+It is not the end of the journey — it is a foundation for what comes next.
 
-Every project gives me an opportunity to:
+My goal is to continue improving my:
 
-- Learn something new
-- Apply what I learned
-- Face real programming problems
-- Debug and understand mistakes
-- Improve the implementation
-- Build stronger foundations
+- 💻 Software Development Skills
+- 🧠 Problem-Solving Ability
+- 🏗️ Software Architecture Knowledge
+- 🗄️ Database Development Skills
+- ⚙️ C# / .NET Experience
+- 🔧 Code Quality & Maintainability
+- 🚀 Ability to build larger and better systems
 
-> **The goal is not only to write code, but to understand the problem, design the solution, and continuously improve.**
-
----
-
-## 🎯 Goals
-
-My goal is to continue developing strong foundations in:
-
-- 💻 C# / .NET
-- ⚙️ C++
-- 🗄️ SQL Server
-- 🔗 ADO.NET
-- 🏗️ Software Architecture
-- 🧠 Problem Solving
-- 🛠️ Software Engineering
-- 📊 Database Development
-
-And most importantly:
-
-### 🚀 Build better software with every project.
+The next stage is about taking what I have learned and pushing it further.
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Let's Connect
 
-I'm interested in collaborating on projects related to:
-
-- 💻 C# / .NET
-- ⚙️ C++
-- 🗄️ SQL Server & Database Applications
-- 🖥️ Desktop Applications
-- 🏗️ Software Engineering
-- 🧠 Programming & Problem Solving
-
-If you are interested in collaboration, feel free to connect with me.
-
----
-
-## 🌐 Connect With Me
+If you're interested in software development, programming, databases, or simply want to connect, feel free to reach out.
 
 <p align="center">
 
 <a href="https://github.com/aimanameenmohammed">
-<img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Ayman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ayman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </p>
 
 ---
 
-## 📂 Explore My Repositories
+## 🌟 A Final Note
 
-Want to see more of my work?
+This profile is a reflection of my journey from learning programming fundamentals to building complete applications.
 
-### 👉 [Explore All My Repositories](https://github.com/aimanameenmohammed?tab=repositories)
+Every repository represents a lesson.
 
-You can explore my projects and follow my development journey through the repositories I continue to build and improve.
+Every challenge represents an opportunity to grow.
 
----
-
-## ⭐ Featured Technologies
+And every project brings me one step closer to becoming a stronger software developer.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%23-Developer-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/ADO.NET-Data%20Access-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-</p>
-
----
-
-## ❤️ Thanks for Visiting My Profile
-
-<p align="center">
-
-### 👋 Thanks for stopping by!
-
-I'm continuously learning, building, and improving.
-
-**Every project is another step forward. 🚀**
+### 🚀 Learn. Build. Debug. Improve. Repeat.
 
 <br>
 
-### 💻 Ayman Ameen Mohammed
-
-**C# .NET & C++ Developer | OOP | SQL Server | ADO.NET | Desktop Applications**
+<strong>Ayman Ameen Mohammed</strong>
 
 <br>
 
-**Learn. Build. Debug. Improve. Repeat. 🚀**
+<em>C# .NET & C++ Developer</em>
 
 </p>
