@@ -1,201 +1,369 @@
-<div align="center">
+# 👋 Hi, I'm Ayman Ameen Mohammed
 
-# 👋 Hi, I'm Aiman Ameen Mohammed
-**C# .NET & C++ Developer | Database Architect (SQL, ADO.NET) | Computer Science Student**
+### 💻 C# .NET & C++ Developer | OOP | SQL Server | ADO.NET | Desktop Applications
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=High-Performance+Desktop+Applications;C%23+.NET+%26+C%2B%2B+Software+Engineer;OOP+%26+Relational+Database+Architect;Crafting+Modern+UI%2FUX+WinForms" />
-</p>
+I’m a software developer focused on building practical applications and strengthening my skills in C#, C++, .NET, Object-Oriented Programming, SQL Server, ADO.NET, and Database Development.
 
-[![GitHub Stars](https://img.shields.io/github/stars/aimanameenmohammed?style=for-the-badge&color=gold)](https://github.com/aimanameenmohammed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiman-ameen-2548673a8)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AimanAmeenMohammed)
+I learn by building real projects, applying programming concepts, solving problems, and continuously improving my code and software engineering skills.
 
 ---
 
-</div>
+## 📚 Table of Contents
 
-### 🎓 Academic & Mentorship Foundation
-
-- 🏛️ **Academic Studies:** Computer Science Student at **Taiz University**.
-- 💻 **Core Technical Stack:** C# .NET, C++, ADO.NET, SQL Server, & Relational Database Design.
-- 🛠️ **Engineering Focus:** Deep Object-Oriented Programming (OOP), Data Access Layers, Memory Optimization, & Modern UI/UX.
-- 🏆 **Logic & Software Engineering:** Mentored and trained under the software logic & algorithmic methodology of **Dr. Mohammed Abu-Hadhoud**.
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects Portfolio
-
-<table align="center" width="100%">
-
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
-<h3>🧠 Math Genius Challenge</h3>
-<a href="https://github.com/aimanameenmohammed/MyMathGame" target="_blank">
-  <img src="./MathGame.png" alt="Math Genius Challenge UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Modern arithmetic challenge application featuring dynamic UI/UX, custom GDI+ rounded controls, unified events, and audio feedback.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/UI-GDI%2B-orange?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/MyMathGame" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-
-<td width="50%" align="center" valign="top">
-<h3>🍕 Pizza Ordering System</h3>
-<a href="https://github.com/aimanameenmohammed/Pizza-Ordering-System" target="_blank">
-  <img src="./Pizza%20Picture.png" alt="Pizza Ordering System UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Desktop ordering system providing dynamic real-time price calculations, order summaries, and complex state management.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-WinForms-blue?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Logic-Real--Time-red?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Pizza-Ordering-System" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
+<td>👋 <a href="#-hi-im-ayman-ameen-mohammed">About</a></td>
+<td>🚀 <a href="#-about-me">About Me</a></td>
+<td>🛠️ <a href="#️-tech-stack">Tech Stack</a></td>
 </tr>
-
 <tr>
-<td width="50%" align="center" valign="top">
-<h3>🧮 Simple Desktop Calculator</h3>
-<a href="https://github.com/aimanameenmohammed/Simple-Calculator" target="_blank">
-  <img src="./Calculator%20Picture.png" alt="Calculator UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Clean C# WinForms calculator built with a unified control architecture and optimized state tracking.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-WinForms-blue?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-green?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Simple-Calculator" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-
-<td width="50%" align="center" valign="top">
-<h3>🎓 Student Management System</h3>
-<a href="https://github.com/aimanameenmohammed/Student-Management-System" target="_blank">
-  <img src="./Project%20Interface.png" alt="Student Management System UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Single-page desktop solution consolidating complete CRUD workflows, custom list modes, and interactive ID Card preview.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-CRUD-teal?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Architecture-SPA-orange?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Student-Management-System" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
+<td>🌟 <a href="#-featured-projects">Projects</a></td>
+<td>📚 <a href="#-my-learning-journey">Learning Journey</a></td>
+<td>🧠 <a href="#-what-im-currently-focusing-on">Focus</a></td>
 </tr>
-
 <tr>
-<td width="50%" align="center" valign="top">
-<h3>🔐 Minimalist Password Generator</h3>
-<a href="https://github.com/aimanameenmohammed/Password-Generator" target="_blank">
-  <img src="./Genarate%20Password%20Picture.png" alt="Password Generator UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>A sleek desktop application implementing secure random algorithms with a minimalist dark interface.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-Algorithms-purple?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/UI-Minimalist-black?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Password-Generator" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-
-<td width="50%" align="center" valign="top">
-<h3>🎮 Tic-Tac-Toe Game (X-O)</h3>
-<a href="https://github.com/aimanameenmohammed/Tic-Tac-Toe-Game" target="_blank">
-  <img src="./Tic-Tac-Toe%20Game%20Interface.png" alt="Tic Tac Toe UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Polished turn-based desktop game engine featuring automated matrix win detection, score tracking, and smooth resetting.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-Game_Logic-red?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/UI-Dark_Theme-black?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Tic-Tac-Toe-Game" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
+<td>📈 <a href="#-development-philosophy">Philosophy</a></td>
+<td>🎯 <a href="#-goals">Goals</a></td>
+<td>🤝 <a href="#-open-to-collaboration">Collaboration</a></td>
 </tr>
-
 <tr>
-<td width="50%" align="center" valign="top">
-<h3>⏱️ Interactive Timer & Display Name</h3>
-<a href="https://github.com/aimanameenmohammed/Timer-And-Name-Display" target="_blank">
-  <img src="./Timer%20Interface.png" alt="Interactive Timer UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Event-driven WinForms utility linking dynamic name iteration queues with real-time timer logic and input state controls.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-Events-orange?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Framework-.NET-blue?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/Timer-And-Name-Display" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-
-<td width="50%" align="center" valign="top">
-<h3>🏎️ International Luxury Car Exhibition</h3>
-<a href="https://github.com/aimanameenmohammed/International-Luxury-Car-Exhibition" target="_blank">
-  <img src="./International%20Luxury%20Car%20Exhibition%20Interface.png" alt="Luxury Car Exhibition UI" width="95%" style="border-radius: 8px;">
-</a>
-<br><br>
-<p>Organizing hierarchical automotive brand data using dynamic TreeView nodes, double-click interaction handlers, and modern Dark UI.</p>
-<p>
-  <img src="https://img.shields.io/badge/C%23-TreeView_Data-blue?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/UI-Dark_Mode-black?style=flat-square" />
-</p>
-<a href="https://github.com/aimanameenmohammed/International-Luxury-Car-Exhibition" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_REPO-0080FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
+<td>🌐 <a href="#-connect-with-me">Connect</a></td>
+<td>📂 <a href="#-explore-my-repositories">Repositories</a></td>
+<td>❤️ <a href="#-thanks-for-visiting-my-profile">Thanks</a></td>
 </tr>
-
 </table>
 
-</div>
+---
+
+## 🚀 About Me
+
+- 💻 Focused on **C# .NET and C++ Development**
+- 🗄️ Interested in **SQL Server, ADO.NET & Database Development**
+- 🧠 Interested in **Object-Oriented Programming & Problem Solving**
+- 🏗️ Building applications using **Three-Tier Architecture**
+- 🖥️ Developing **Windows Forms Desktop Applications**
+- 📚 Learning through practical projects and continuous implementation
+- 🔧 Improving code quality, organization, and software architecture
+- 🚀 Turning programming concepts into practical applications
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=400&lines=🤝+GET+IN+TOUCH;AIMAN+AMEEN" alt="Contact Section" />
+### 💻 Programming Languages
 
-<p>Open for technical collaboration on C# desktop engineering, SQL database architectures, and high-performance system design.</p>
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/aiman-ameen-2548673a8" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+### ⚙️ .NET & Desktop Development
+
+<p align="left">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+### 🗄️ Database & Data Access
+
+<p align="left">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🧠 Software Engineering
+
+<p align="left">
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Three--Tier%20Architecture-2F80ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Code-111111?style=for-the-badge" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏦 Bank Management System
+
+A desktop banking application developed with **C#, .NET, Windows Forms, ADO.NET, SQL Server, and Three-Tier Architecture**.
+
+The project focuses on applying database programming, business logic, data access, and desktop UI development in a practical banking system.
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/My-Bank-Project)**
+
+---
+
+### 🚗 DVLD — Driving & Vehicle License Department
+
+A large desktop application developed to simulate a real-world Driving & Vehicle License Department system.
+
+The project includes practical management of people, users, applications, tests, drivers, and licenses.
+
+Built using:
+
+- C#
+- .NET / Windows Forms
+- ADO.NET
+- SQL Server
+- OOP
+- Three-Tier Architecture
+- Database Design
+
+🔗 **[Explore My GitHub Repositories](https://github.com/aimanameenmohammed?tab=repositories)**
+
+---
+
+### 🧮 Math Game V2.0
+
+A C# desktop application designed as an interactive mathematics game.
+
+The project focuses on programming logic, user interaction, Windows Forms development, game flow, and score management.
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/My-Math-Game-V2.0)**
+
+---
+
+### 🎮 Paper-Stone-Scissor Game V1.0
+
+A C++ console-based game where the player competes against the computer through multiple rounds.
+
+The project demonstrates:
+
+- C++ fundamentals
+- Functions
+- Structures
+- Enumerations
+- Loops
+- Conditional Logic
+- Random Number Generation
+- Input Validation
+- Game Logic
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/Paper-Ston-Scissor-Game-V1.0)**
+
+---
+
+### 🍕 Pizza Ordering System
+
+A C# Windows Forms application developed as a practical project to apply desktop application development and user interaction.
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/Pizza-Project)**
+
+---
+
+### 🧮 Simple Calculator
+
+A C# Windows Forms calculator created to practice event-driven programming, control interaction, and application logic.
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/Simple-Calculator)**
+
+---
+
+### 🔐 Password Generator
+
+A desktop application focused on generating passwords using randomized characters and user-selected options.
+
+🔗 **[View Repository](https://github.com/aimanameenmohammed/Genarate-Password)**
+
+---
+
+## 📚 My Learning Journey
+
+My development journey is based strongly on **learning through building**.
+
+Rather than learning programming concepts only from theory, I apply what I learn by developing practical projects and gradually working on larger and more complex applications.
+
+### 🧭 Development Path
+
+    Programming Fundamentals
+            ↓
+    Object-Oriented Programming
+            ↓
+    C++ & C#
+            ↓
+    .NET & Windows Forms
+            ↓
+    SQL Server
+            ↓
+    ADO.NET
+            ↓
+    Database Design
+            ↓
+    Three-Tier Architecture
+            ↓
+    Larger Real-World Applications
+
+Every project gives me an opportunity to improve my understanding of programming, databases, architecture, debugging, and problem solving.
+
+---
+
+## 🧠 What I'm Currently Focusing On
+
+### 💻 C# & .NET
+
+- Object-Oriented Programming
+- Windows Forms
+- Clean Code
+- Reusable Components
+- Event-Driven Programming
+- Application Architecture
+
+### 🗄️ Database Development
+
+- SQL Server
+- Relational Database Design
+- Database Relationships
+- CRUD Operations
+- ADO.NET
+- Data Access Layer
+- Business Logic Layer
+
+### 🏗️ Software Architecture
+
+- Three-Tier Architecture
+- Separation of Responsibilities
+- Presentation Layer
+- Business Logic Layer
+- Data Access Layer
+
+### 🧩 Problem Solving
+
+- Breaking complex problems into smaller problems
+- Designing reusable functions
+- Improving code organization
+- Debugging
+- Learning through practical implementation
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aimanameenmohammed&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimanameenmohammed&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanameenmohammed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Development Philosophy
+
+### Learn → Build → Debug → Improve → Repeat
+
+I believe that one of the strongest ways to become a better developer is through practical implementation.
+
+Every project gives me an opportunity to:
+
+- Learn something new
+- Apply what I learned
+- Face real programming problems
+- Debug and understand mistakes
+- Improve the implementation
+- Build stronger foundations
+
+> **The goal is not only to write code, but to understand the problem, design the solution, and continuously improve.**
+
+---
+
+## 🎯 Goals
+
+My goal is to continue developing strong foundations in:
+
+- 💻 C# / .NET
+- ⚙️ C++
+- 🗄️ SQL Server
+- 🔗 ADO.NET
+- 🏗️ Software Architecture
+- 🧠 Problem Solving
+- 🛠️ Software Engineering
+- 📊 Database Development
+
+And most importantly:
+
+### 🚀 Build better software with every project.
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects related to:
+
+- 💻 C# / .NET
+- ⚙️ C++
+- 🗄️ SQL Server & Database Applications
+- 🖥️ Desktop Applications
+- 🏗️ Software Engineering
+- 🧠 Programming & Problem Solving
+
+If you are interested in collaboration, feel free to connect with me.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/aimanameenmohammed">
+<img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://t.me/AimanAmeenMohammed" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-&nbsp;
-<a href="https://wa.me/967730062999" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="mailto:aymnamynalamry@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="https://www.linkedin.com/in/aiman-ameen-2548673a8/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br /><br />
+</p>
 
-<p align="center"><i>Crafted with 💙 by Aiman Ameen Mohammed</i></p>
+---
 
-</div>
+## 📂 Explore My Repositories
+
+Want to see more of my work?
+
+### 👉 [Explore All My Repositories](https://github.com/aimanameenmohammed?tab=repositories)
+
+You can explore my projects and follow my development journey through the repositories I continue to build and improve.
+
+---
+
+## ⭐ Featured Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-Developer-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/ADO.NET-Data%20Access-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+</p>
+
+---
+
+## ❤️ Thanks for Visiting My Profile
+
+<p align="center">
+
+### 👋 Thanks for stopping by!
+
+I'm continuously learning, building, and improving.
+
+**Every project is another step forward. 🚀**
+
+<br>
+
+### 💻 Ayman Ameen Mohammed
+
+**C# .NET & C++ Developer | OOP | SQL Server | ADO.NET | Desktop Applications**
+
+<br>
+
+**Learn. Build. Debug. Improve. Repeat. 🚀**
+
+</p>
