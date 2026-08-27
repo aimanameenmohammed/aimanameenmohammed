@@ -1,27 +1,30 @@
 <div align="center">
 
-# ╔══════════════════════════════════════╗
-#       👋 Aiman Ameen Mohammed
-# ╚══════════════════════════════════════╝
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=150&section=header&text=Aiman%20Ameen%20Mohammed&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%">
+
+<br>
 
 ### 💻 C# .NET & C++ Developer
 
 <p>
-  <strong>OOP</strong> &nbsp;•&nbsp;
-  <strong>SQL Server</strong> &nbsp;•&nbsp;
-  <strong>ADO.NET</strong> &nbsp;•&nbsp;
-  <strong>Desktop Applications</strong> &nbsp;•&nbsp;
-  <strong>Software Architecture</strong>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/ADO.NET-Data%20Access-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 <p>
   <a href="https://github.com/aimanameenmohammed">
-    <img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aiman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<br>
 
 </div>
 
@@ -29,132 +32,93 @@
 
 ## 🧭 Navigation
 
-<table align="center">
-<tr>
-<td align="center">
-
-### 👨‍💻 About
-
-<a href="#-about-me">Who I Am</a>
-<br>
-<a href="#-technical-stack">Technical Stack</a>
-
-</td>
-
-<td align="center">
-
-### 🚀 Projects
-
-<a href="#-featured-projects">Featured Projects</a>
-<br>
-<a href="#-more-projects">More Projects</a>
-
-</td>
-
-<td align="center">
-
-### 🧠 Journey
-
-<a href="#-my-development-journey">Development Journey</a>
-<br>
-<a href="#-learning-philosophy">Learning Philosophy</a>
-
-</td>
-
-<td align="center">
-
-### 📈 Future
-
-<a href="#-whats-next">What's Next</a>
-<br>
-<a href="#-github">GitHub</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-
-🤝 <a href="#-lets-connect">Let's Connect</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 👨‍💻 About Me
-
-I'm a software developer focused on building practical applications and continuously developing my skills in:
-
-**C# • C++ • .NET • Object-Oriented Programming • SQL Server • ADO.NET • Database Development**
-
-My approach to learning is simple:
-
 <div align="center">
 
-### Learn → Build → Debug → Understand → Improve
+| 👨‍💻 **About** | 🛠️ **Skills** | 🚀 **Projects** |
+|:---:|:---:|:---:|
+| [About Me](#-about-me) | [Technical Stack](#️-technical-stack) | [Featured Projects](#-featured-projects) |
+| [Development Focus](#-development-focus) | [Learning Philosophy](#-learning-philosophy) | [More Projects](#-more-projects) |
+
+| 🧭 **Journey** | 🤝 **Community** | 📊 **Profile** |
+|:---:|:---:|:---:|
+| [Development Journey](#-development-journey) | [Contribute & Collaborate](#-contribute--collaborate) | [GitHub Stats](#-github-stats) |
+| [What's Next](#-whats-next) | [Let's Connect](#-lets-connect) | [Back to Top](#-aiman-ameen-mohammed) |
 
 </div>
 
-I believe that programming is best learned by turning concepts into real applications, solving problems, understanding why things work, and improving the solution along the way.
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer focused on **building practical applications and continuously improving my software development skills**.
+
+My main areas of interest and development are:
+
+**C# • C++ • .NET • Object-Oriented Programming • SQL Server • ADO.NET • Database Development**
+
+I learn primarily through practical projects.
+
+I take what I learn, apply it to a real problem, build the solution, face the bugs, understand them, and improve the final result.
+
+<div align="center">
+
+### 💡 Learn → Build → Debug → Understand → Improve
+
+</div>
 
 ---
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
 ### ⚙️ Application Development
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ### 🗄️ Database & Data Access
 
 <p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 ### 🏗️ Development Concepts
 
 <p>
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP">
-<img src="https://img.shields.io/badge/Three--Tier%20Architecture-2F80ED?style=for-the-badge" alt="Three-Tier Architecture">
-<img src="https://img.shields.io/badge/Clean%20Code-333333?style=for-the-badge" alt="Clean Code">
-<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge" alt="Database Design">
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Three--Tier%20Architecture-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clean%20Code-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge">
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-These are the two projects I consider the strongest representation of my practical development journey.
+These are the two projects I want to highlight as the strongest representation of my practical development journey.
 
 ---
 
-## 🏦 Bank Project V2.0
+### 🏦 Bank Project V2.0
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-</p>
+A database-driven banking desktop application developed using:
 
-A database-driven banking desktop application developed using **C#, .NET, Windows Forms, ADO.NET, SQL Server, and Three-Tier Architecture**.
+**C# • .NET • Windows Forms • ADO.NET • SQL Server • Three-Tier Architecture**
 
-This project represents an important step in my journey from learning individual programming concepts to combining them into a structured, database-driven application.
+This project represents an important stage in my journey toward building structured, database-driven desktop applications.
 
-### 🔹 Main Focus
+It gave me practical experience working with application layers, database operations, business logic, and data access.
+
+#### 🔹 Main Focus
 
 - 🖥️ Desktop Application Development
 - 🗄️ SQL Server Database
@@ -167,18 +131,18 @@ This project represents an important step in my journey from learning individual
 <div align="center">
 
 <a href="https://github.com/aimanameenmohammed/My-Bank-Project-V2.0">
-<img src="https://img.shields.io/badge/VIEW%20BANK%20PROJECT%20V2.0-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Bank Project">
+<img src="https://img.shields.io/badge/EXPLORE%20BANK%20PROJECT%20V2.0-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🚗 DVLD — Driving & Vehicle License Department
+### 🚗 DVLD — Driving & Vehicle License Department
 
 <div align="center">
 
-### ⭐ My Latest Major Project
+<img src="https://img.shields.io/badge/LATEST%20MAJOR%20PROJECT-2EA44F?style=for-the-badge">
 
 </div>
 
@@ -186,7 +150,7 @@ DVLD is the **latest and most comprehensive project** I completed during this le
 
 It is a desktop application designed to simulate a real-world **Driving & Vehicle License Department**, bringing together many of the concepts I developed throughout my journey.
 
-### 🔹 Main Areas
+#### 🔹 Main Areas
 
 - 👤 People Management
 - 🔐 User Management
@@ -200,9 +164,9 @@ It is a desktop application designed to simulate a real-world **Driving & Vehicl
 - 🔗 ADO.NET
 - 🏗️ Three-Tier Architecture
 
-### 🧠 Why DVLD Matters
+#### 🧠 Why DVLD Matters
 
-DVLD represents the stage where many concepts that I had learned separately came together into one complete system:
+DVLD represents the point where many concepts that I had previously learned separately came together in one complete system:
 
 <div align="center">
 
@@ -210,51 +174,42 @@ DVLD represents the stage where many concepts that I had learned separately came
 
 </div>
 
-It was not simply another project.
+This was not simply another project.
 
-It was the culmination of an important learning phase and the **last major project I completed during this stage of my journey**.
+It was the **last major project I completed during this learning phase**, and it represents an important milestone in my development journey.
 
 <div align="center">
 
 <a href="https://github.com/aimanameenmohammed/DVLD-Project">
-<img src="https://img.shields.io/badge/VIEW%20DVLD%20PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="View DVLD Project">
+<img src="https://img.shields.io/badge/EXPLORE%20DVLD%20PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 🧭 My Development Journey
+## 🧭 Development Journey
 
-My journey has progressed gradually from programming fundamentals to larger database-driven applications.
+My journey has gradually moved from programming fundamentals toward larger, database-driven applications.
 
-<table align="center">
-<tr>
-<td align="center">📚<br><strong>Programming Fundamentals</strong></td>
-<td>→</td>
-<td align="center">💻<br><strong>C++ & C#</strong></td>
-<td>→</td>
-<td align="center">🧠<br><strong>OOP</strong></td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">🖥️<br><strong>Windows Forms</strong></td>
-<td>→</td>
-<td align="center">🗄️<br><strong>SQL Server</strong></td>
-<td>→</td>
-<td align="center">🔗<br><strong>ADO.NET</strong></td>
-</tr>
+| Stage | Focus |
+|:---:|:---|
+| 01 | 📚 Programming Fundamentals |
+| 02 | 💻 C++ & C# |
+| 03 | 🧠 Object-Oriented Programming |
+| 04 | 🖥️ Windows Forms |
+| 05 | 🗄️ SQL Server |
+| 06 | 🔗 ADO.NET |
+| 07 | 🗃️ Database Design |
+| 08 | 🏗️ Three-Tier Architecture |
+| 09 | 🚀 Larger Applications |
+| 10 | 🚗 DVLD |
 
-<tr>
-<td align="center">🗃️<br><strong>Database Design</strong></td>
-<td>→</td>
-<td align="center">🏗️<br><strong>Three-Tier Architecture</strong></td>
-<td>→</td>
-<td align="center">🚗<br><strong>DVLD</strong></td>
-</tr>
-</table>
+</div>
 
-Every stage added another piece to my understanding of software development.
+Each stage added another piece to my understanding of software development.
 
 The goal was never simply to write more code.
 
@@ -267,11 +222,11 @@ The goal was to understand how to:
 - Separate responsibilities
 - Connect application layers
 - Debug real problems
-- Continuously improve the implementation
+- Improve the implementation
 
 ---
 
-# 🧠 What I Focus On
+## 🧠 Development Focus
 
 <table>
 <tr>
@@ -282,11 +237,12 @@ The goal was to understand how to:
 Breaking complex problems into smaller, understandable parts and solving them step by step.
 
 </td>
+
 <td width="50%">
 
-### 🏗️ Software Architecture
+### 🏗️ Architecture
 
-Separating responsibilities and organizing applications so they are easier to understand and maintain.
+Separating responsibilities and organizing applications so they remain easier to understand and maintain.
 
 </td>
 </tr>
@@ -299,6 +255,7 @@ Separating responsibilities and organizing applications so they are easier to un
 Designing relational databases and connecting applications to data using SQL Server and ADO.NET.
 
 </td>
+
 <td>
 
 ### ✨ Code Quality
@@ -313,7 +270,7 @@ Writing code that is readable, organized, reusable, and easier to maintain.
 
 ---
 
-# 📚 More Projects
+## 📚 More Projects
 
 The two projects above are the main highlights of my current portfolio.
 
@@ -323,19 +280,19 @@ Throughout my learning journey, I have built many other projects and programming
 
 **C# • C++ • .NET • Windows Forms • OOP • Databases • Programming Fundamentals**
 
-If you'd like to explore the rest of my work:
+If you want to explore the rest of my work:
 
 <div align="center">
 
 <a href="https://github.com/aimanameenmohammed?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20EXPLORE%20ALL%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories">
+<img src="https://img.shields.io/badge/🔎%20EXPLORE%20ALL%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 🎓 Learning Philosophy
+## 🎓 Learning Philosophy
 
 I believe the strongest way to learn software development is through practical implementation.
 
@@ -351,13 +308,36 @@ I want to understand:
 
 - Why the solution works
 - Why it fails
-- How the pieces communicate
+- How the components communicate
 - How the code can be improved
 - How a small idea can become a complete application
 
 ---
 
-# 📈 What's Next?
+## 🤝 Contribute & Collaborate
+
+I'm open to **technical collaboration, learning together, and contributing to software projects** related to my areas of interest.
+
+If you're working on something involving:
+
+- 💻 C# / .NET
+- ⚙️ C++
+- 🗄️ SQL Server / Database Development
+- 🖥️ Desktop Applications
+- 🏗️ Software Architecture
+- 🧠 Programming & Problem Solving
+
+I'd be happy to connect, exchange ideas, learn from others, and contribute where I can.
+
+<div align="center">
+
+### 🤝 Build Together • Learn Together • Improve Together
+
+</div>
+
+---
+
+## 📈 What's Next?
 
 Completing **DVLD** marks the end of an important learning phase for me.
 
@@ -383,48 +363,48 @@ My goal is to continue improving my:
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=aimanameenmohammed&show_icons=true&theme=tokyonight&hide_border=true" alt="Aiman's GitHub Stats">
-</p>
 
-<p align="center">
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanameenmohammed&layout=compact&theme=tokyonight&hide_border=true" alt="Aiman's Top Languages">
-</p>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning from others, sharing knowledge, and discussing software development.
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/aimanameenmohammed">
-<img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-aimanameenmohammed-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/aiman-ameen-2548673a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Aiman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Aiman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Learn. Build. Debug. Improve.
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=100&section=footer&text=Learn.%20Build.%20Debug.%20Improve.&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%">
 
 <br>
 
-### Aiman Ameen Mohammed
+**Aiman Ameen Mohammed**
+
+<br>
 
 <sub>C# .NET & C++ Developer</sub>
-
-<br><br>
-
-<sub>Building practical software, one project at a time.</sub>
 
 </div>
