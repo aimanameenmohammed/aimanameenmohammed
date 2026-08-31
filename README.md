@@ -131,7 +131,7 @@ It gave me practical experience working with application layers, database operat
 <div align="center">
 
 <a href="https://github.com/aimanameenmohammed/My-Bank-Project-V2.2.0">
-<img src="https://img.shields.io/badge/EXPLORE%20BANK%20PROJECT%20V2.0-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE%20BANK%20PROJECT%20V2.2.0-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/posts/aiman-ameen-2548673a8_csharp-dotnet-sqlserver-activity-7477288481598279681-Db2j">
