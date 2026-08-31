@@ -108,7 +108,7 @@ These are the two projects I want to highlight as the strongest representation o
 
 ---
 
-### 🏦 Bank Project V2.0
+### 🏦 Bank Project V2.2.0
 
 A database-driven banking desktop application developed using:
 
@@ -132,6 +132,10 @@ It gave me practical experience working with application layers, database operat
 
 <a href="https://github.com/aimanameenmohammed/My-Bank-Project-V2.0">
 <img src="https://img.shields.io/badge/EXPLORE%20BANK%20PROJECT%20V2.0-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/posts/aiman-ameen-2548673a8_csharp-dotnet-sqlserver-activity-7477288481598279681-Db2j">
+<img src="https://img.shields.io/badge/LinkedIn-Bank%20Project%20V2.2.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -182,6 +186,10 @@ It was the **last major project I completed during this learning phase**, and it
 
 <a href="https://github.com/aimanameenmohammed/DVLD-Project">
 <img src="https://img.shields.io/badge/EXPLORE%20DVLD%20PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/posts/aiman-ameen-2548673a8_csharp-dotnet-winforms-activity-7491265475604119552-ZKV0">
+<img src="https://img.shields.io/badge/LinkedIn-DVLD%20Project%20V1.0.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
