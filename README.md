@@ -41,7 +41,7 @@
 
 | 🧭 **Journey** | 🤝 **Community** | 📊 **Profile** |
 |:---:|:---:|:---:|
-| [Development Journey](#-development-journey) | [Contribute & Collaborate](#-contribute--collaborate) | [GitHub Stats](#-github-stats) |
+| [Development Journey](#-development-journey) | [Contribute & Collaborate](#-contribute--collaborate) |
 | [What's Next](#-whats-next) | [Let's Connect](#-lets-connect) | [Back to Top](#-aiman-ameen-mohammed) |
 
 </div>
@@ -370,21 +370,6 @@ My goal is to continue improving my:
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aimanameenmohammed&show_icons=true&theme=tokyonight&hide_border=true" alt="Aiman's GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanameenmohammed&layout=compact&theme=tokyonight&hide_border=true" alt="Aiman's Top Languages">
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
