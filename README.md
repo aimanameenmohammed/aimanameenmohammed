@@ -397,6 +397,18 @@ My goal is to continue improving my:
 <img src="https://img.shields.io/badge/LinkedIn-Aiman%20Ameen%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://t.me/AimanAmeenMohammed">
+<img src="https://img.shields.io/badge/Telegram-Aiman%20Ameen%20Mohammed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://wa.me/96777003062999">
+<img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="mailto:aymnamynalamry@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </div>
 
 ---
